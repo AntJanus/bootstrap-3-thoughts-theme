@@ -23,7 +23,8 @@
 .jumbotron {
   padding: 48px 0 36px;
   margin-top: -40px;
-  background: url('');
+  background: url('../images/a-ring.jpg');
+  background-size: 100%;
 }
 .jumbotron h1 {
   display: inline-block;
