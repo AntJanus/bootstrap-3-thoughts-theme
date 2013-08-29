@@ -5,15 +5,6 @@ For the purposes of an article I wrote, I created a bootstrap theme to demonstra
 
 You can preview the theme on [Github Pages](http://antjanus.github.io/bootstrap-3-thoughts-theme) and read [my article](http://antjanus.com/blog/uncategorized/make-bootstrap-3-theme-proper-way/)
 
-Resources Used
-===============
-
-* [Bootstrap](http://getbootstrap.com)
-
-PREVIEW
-=================
-[Preview](http://antjanus.github.io/Green-Bootstrap-Theme/)
-
 For More
 =================
 
