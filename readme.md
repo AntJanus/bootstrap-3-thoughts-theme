@@ -12,7 +12,7 @@ Resources Used
 
 PREVIEW
 =================
-http://antjanus.github.com/Green-Bootstrap-Theme/
+[Preview](http://antjanus.github.io/Green-Bootstrap-Theme/)
 
 For More
 =================
