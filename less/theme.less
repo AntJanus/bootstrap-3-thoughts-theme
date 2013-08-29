@@ -1,0 +1,95 @@
+
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "variables.less";
+@import "mixins.less";
+
+.navbar {
+  min-height: 40px;
+}
+
+.navbar-default {
+  background: transparent;
+  border: 0;
+  margin-bottom: 0;
+  .navbar-toggle {
+    background: @white;
+  }
+}
+
+.navbar-nav > li {
+  background: @black;
+
+  a{
+    padding: 10px;
+  }
+}
+
+.navbar-default .navbar-nav > .active > a {
+  background: @white;
+  @shadow: inset 0 0 3px rgba(0, 0, 0, 0.5);
+  .box-shadow(@shadow);
+}
+
+.jumbotron {
+  padding: 48px 0 36px;
+  margin-top: -40px;
+  background: url('');
+
+  h1 {
+    display: inline-block;
+    padding: 10px;
+    background: @white;
+    margin: 0;
+  }
+
+  h2 {
+    display: inline-block;
+    background: @white;
+    margin-bottom: 0;
+    padding: 5px;
+    margin-left: 124px;
+    margin-top: 8px;
+    font-size: 40px;
+  }
+
+}
+
+.list-group-item {
+  padding-left: 0;
+}
+
+//non bootstrap classes and IDs
+.post-title{
+  margin-top: 0;
+}
+
+#sidebar {
+  h3:first-child{
+    margin-top: 0;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .extra-left{
+    margin-left: -55px;
+    padding: @font-size-base;
+  }
+
+  .extra-right{
+    margin-right: -55px;
+    padding: @font-size-base;
+  }
+}
+
+@media (max-width: @screen-xs-max) {
+  .navbar-default{
+    background-color: @black;
+  }
+
+  .navbar-default .navbar-collapse{
+    border: 0;
+  }
+}
