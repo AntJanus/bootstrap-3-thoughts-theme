@@ -12,7 +12,7 @@ Resources Used
 
 PREVIEW
 =================
-http://antjanus.github.com/Green-Bootstrap-Theme/
+http://antjanus.github.io/bootstrap-3-thoughts-theme/
 
 For More
 =================
