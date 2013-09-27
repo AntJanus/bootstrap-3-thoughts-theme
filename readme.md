@@ -14,7 +14,4 @@ PREVIEW
 =================
 http://antjanus.github.io/bootstrap-3-thoughts-theme/
 
-For More
-=================
-
-Visit my [web development blog](http://antjanus.com) or checkout [WrapBootstrap](http://antjanus.com/out/wrapbootstrap) via my affiliate link to see Premium Bootstrap themes.
+=======
